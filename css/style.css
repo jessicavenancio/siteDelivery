@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F1F0ED;
+}
+
+#navbarDropdown{
+    color: black;
+}
+
+#galeria{
+    margin: 0 auto;
+    width: 100%;
+}
+
+/* ajustar aqui os icones */
+#icons-footer{
+    display: flex;
+    align-items: center;
+
+    margin: 0 auto;
+    width: 100%;
+}
+
+.dropdown-menu{
+    background-color: #F29F05;
+}
+
+a:link
+{
+    color: white;
+}
+
+a:visited
+{
+    color: white;
+}
+a:hover 
+{
+    color: #F29F05;
+}
+
+#col-info{
+    display: flex;
+}
